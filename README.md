@@ -36,8 +36,5 @@ Developed an interactive Excel dashboard to analyze DMart's sales and profit per
 - Learned to transform raw sales data into meaningful business insights.
 - Improved dashboard design and data visualization skills.
 
-## Project Files
-- `DMart_Sales_Analysis.xlsx` — Excel workbook containing the dataset, analysis sheets, calculations, and dashboard.
-
 ## Conclusion
 This project demonstrates the use of Excel for sales analysis, performance monitoring, and business reporting. It showcases practical data analysis skills through structured calculations, visualizations, and dashboard development.
