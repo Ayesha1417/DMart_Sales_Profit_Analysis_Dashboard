@@ -3,7 +3,8 @@
 ## Project Overview
 Developed an interactive Excel dashboard to analyze DMart's sales and profit performance across regions, cities, product categories, years, and customer types. The project focuses on identifying sales trends, evaluating profitability, and generating insights to support business decision-making.
 
-![Uploading image.png…]()
+<img width="1785" height="697" alt="image" src="https://github.com/user-attachments/assets/7b2edd01-7674-4efb-b24a-c50d1ccc55cf" />
+
 
 
 ## Objectives
